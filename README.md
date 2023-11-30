@@ -1,4 +1,5 @@
 # Laravel Inertia Vite Template
+![Screenshot_52](https://github.com/imam347/E-Scheduling/assets/76858100/08f8a220-fca5-4280-b4a2-552fb65c7565)
 
 **Simple yet powerful template for Laravel Vue applications.**
 

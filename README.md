@@ -1,15 +1,14 @@
-# Laravel Inertia Vite Template
-![Screenshot_52](https://github.com/imam347/E-Scheduling/assets/76858100/08f8a220-fca5-4280-b4a2-552fb65c7565)
+# E-Scheduling
 
-**Simple yet powerful template for Laravel Vue applications.**
+**Simple, Optimizing Timetables And Buzzing with Efficiency.**
 
-Create your awesome project with awesome template, featuring lots of features and ready to use such as :
+Make academic schedules fun, efficient, effective and without worrying about schedule clashes.
 
- - Full single page application with simplified UI, routing and navigation.
- - Permission will help you organize user, role more flexible with builtin settings.
- - Builtin draggable menu to set your menu easily.
- - Builtin authentication with seeder.
- - Supports multi-language web application.
+ - Easy to use.
+ - Efective.
+ - efficient.
+ - flexible schedule creation.
+ - No schedule conflicts.
  - Dark and light themes 🌓
 ---
 ## Requirements
@@ -17,9 +16,15 @@ Create your awesome project with awesome template, featuring lots of features an
  - Node JS 14 or higher
 
 ---
+## Template
+
+This web is made with the Laravel inertia template developed by Geriano.
+
+  ```git clone https://github.com/Geriano/laravel-inertia-vite-template.git```
+  
 ## Installation
 
-  This might take awhile but I'm pretty sure this is worth it. So let's get started.
+  This might take a while but I'm pretty sure this is worth it. So let's get started.
 
   1. Clone the repository
 
@@ -63,7 +68,23 @@ Create your awesome project with awesome template, featuring lots of features an
       ``` npm run dev ```
     
   9. Open your browser and go to [localhost](http://localhost:8000) and now you ready to build your apps!
-  
+
+
+## Login
+![Screenshot_33](https://github.com/imam347/E-Scheduling/assets/76858100/48bbd12a-cbb6-473e-93da-00964020d73d)
+
+## Master Data
+![Screenshot_35](https://github.com/imam347/E-Scheduling/assets/76858100/e035fbfe-a275-48e2-a511-fc081313ba6c)
+![Screenshot_40](https://github.com/imam347/E-Scheduling/assets/76858100/cc12f55a-8bbb-498d-b0ce-437610f5326e)
+![Screenshot_39](https://github.com/imam347/E-Scheduling/assets/76858100/209fae25-9a41-43cc-8dbe-f756bdc6454a)
+![Screenshot_38](https://github.com/imam347/E-Scheduling/assets/76858100/1da20dc7-7779-47c6-9e02-3daafb422c6f)
+![Screenshot_43](https://github.com/imam347/E-Scheduling/assets/76858100/e6c9b69f-b06c-4262-ace7-f55d5c0bcdf4)
+![Screenshot_42](https://github.com/imam347/E-Scheduling/assets/76858100/ab474803-3a2d-494f-a82f-f514b62a2c8e)
+![Screenshot_41](https://github.com/imam347/E-Scheduling/assets/76858100/4008ae13-6d45-4968-ac29-782119bebeae)
+
+## Plotting Schedule
+![Screenshot_44](https://github.com/imam347/E-Scheduling/assets/76858100/83ab380c-d767-4617-a784-803d2c088f1f)
+
 ## Permission
 ![permission-index](https://user-images.githubusercontent.com/59258929/195477625-455c16de-7fd2-40d8-954a-222b7d8d8bb1.png)
 ![permission-create](https://user-images.githubusercontent.com/59258929/195477640-ba4259c6-d59a-43c8-abb6-8bc4513da753.png)
